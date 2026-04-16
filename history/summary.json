@@ -4,19 +4,19 @@
     "url": "https://imphoto.dev",
     "icon": "https://icons.duckduckgo.com/ip3/imphoto.dev.ico",
     "slug": "main-page",
-    "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
-    "time": 136,
-    "timeDay": 136,
-    "timeWeek": 136,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "status": "up",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 290,
+    "timeDay": 290,
+    "timeWeek": 290,
+    "timeMonth": 290,
+    "timeYear": 290,
     "dailyMinutesDown": {
-      "2026-04-16": 27
+      "2026-04-16": 204
     }
   }
 ]

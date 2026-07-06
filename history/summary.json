@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/imphoto.dev.ico",
     "slug": "main-page",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
-    "time": 178,
-    "timeDay": 129,
-    "timeWeek": 156,
-    "timeMonth": 169,
-    "timeYear": 178,
+    "uptimeYear": "99.83%",
+    "time": 179,
+    "timeDay": 215,
+    "timeWeek": 158,
+    "timeMonth": 170,
+    "timeYear": 179,
     "dailyMinutesDown": {
       "2026-04-16": 204
     }
